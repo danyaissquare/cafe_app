@@ -1,0 +1,1 @@
+ D:\\RoadToSenior\\cafe_app\\.dart_tool\\flutter_build\\50e43417ca08f4eef4d407a69dc67962\\native_assets.yaml: 

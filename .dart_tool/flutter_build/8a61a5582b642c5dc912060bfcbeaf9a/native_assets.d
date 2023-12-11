@@ -1,0 +1,1 @@
+ C:\\Users\\Danil\\Downloads\\Single-Restaurant-Food-Delivery-main\\Single-Restaurant-Food-Delivery-main\\.dart_tool\\flutter_build\\8a61a5582b642c5dc912060bfcbeaf9a\\native_assets.yaml: 
